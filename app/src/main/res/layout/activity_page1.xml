@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:background="#bed1f7"
+    >
+
+    <Button
+        android:id="@+id/btn1"
+        android:layout_width="150dp"
+        android:layout_height="60dp"
+        android:text="বাংলা"
+        android:textSize="30dp"
+        android:backgroundTint="#82eb73"
+        android:layout_marginTop="50dp"
+        android:layout_gravity="center"
+        />
+
+    <Button
+        android:id="@+id/btn2"
+        android:layout_width="150dp"
+        android:layout_height="60dp"
+        android:text="English"
+        android:textSize="30dp"
+        android:backgroundTint="#fc5e5d"
+        android:layout_marginTop="50dp"
+        android:layout_gravity="center"
+        />
+
+    <Button
+        android:id="@+id/btn3"
+        android:layout_width="150dp"
+        android:layout_height="60dp"
+        android:text="সংখ্যা"
+        android:textSize="30dp"
+        android:backgroundTint="#fef391"
+        android:layout_marginTop="50dp"
+        android:layout_gravity="center"
+        />
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:background="#b8cefa"
+        android:text="© shimul.hstu136@gmail.com"
+        android:textColor="#000"
+        android:gravity="bottom"
+        android:textAlignment="center"
+        />
+
+</LinearLayout>
+

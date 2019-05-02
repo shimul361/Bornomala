@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:showIn="navigation_view">
+
+    <group android:checkableBehavior="single">
+        <item
+            android:id="@+id/nav1"
+            android:icon="@drawable/folder"
+            android:title="স্বরবর্ণ" />
+        <item
+            android:id="@+id/nav2"
+            android:icon="@drawable/folder"
+            android:title="ব্যঞ্জনবর্ণ" />
+        <item
+            android:id="@+id/nav3"
+            android:icon="@drawable/folder"
+            android:title="English" />
+        <item
+            android:id="@+id/nav4"
+            android:icon="@drawable/folder"
+            android:title="সংখ্যা" />
+    </group>
+
+    <item android:title="অন্যান্য">
+        <menu>
+            <item
+                android:id="@+id/nav5"
+                android:icon="@drawable/star"
+                android:title="রেটিং" />
+            <item
+                android:id="@+id/nav6"
+                android:icon="@drawable/person"
+                android:title="ডেভেলপার" />
+        </menu>
+    </item>
+</menu>

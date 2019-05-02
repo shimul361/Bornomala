@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">বর্ণমালা</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">বর্ণমালা</string>
+    <string name="nav_header_subtitle">shimul.hstu136@gmail.com</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="action_settings">Settings</string>
+    <string name="bio1">শিমুল হাসান শিহাব</string>
+    <string name="bio2">বিএসসি ইন ইলেক্ট্রনিক্স এন্ড কমিউনিকেশন ইঞ্জিনিয়ারিং</string>
+    <string name="bio3">হাবিপ্রবি, দিনাজপুর</string>
+    <string name="bio4">shimul.hstu136@gmail.com</string>
+
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>
+
